@@ -6,4 +6,6 @@ Automatisation and cleanup of LOCCO scope manipulation scripts (Python)
 \
 **control_metamorph** = Python script allowing the user to do the same think as when using the MultiDimensional acquisition on MetaMorph but with more flexibility 
 \
-**MM_functions** = lists of the functions needed to control the microscope from a python script 
+**MM_functions** = lists of the functions needed to control the microscope from a python script
+\
+**Interop.MMAppLib.dll** = Dll Library allowing the connection to MetaMorph
